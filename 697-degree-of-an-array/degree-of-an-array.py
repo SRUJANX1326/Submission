@@ -16,7 +16,7 @@ class Solution(object):
                     items=dup[:]
                     items.append(nums_list[i])
                     degree=nums.count(nums_list[i])
-            print(i)
+
         min_degree=float('inf')
         if len(items)>1:
             while len(items)>0:
