@@ -9,11 +9,11 @@ class Solution(object):
                 odd.append(nums[i])
         j=0
         for i in range(0,len(nums),2):
-                nums[i]=even[j]
-                j+=1
+            nums[i]=even[j]
+            j+=1
         j=0
         for i in range(1,len(nums),2):
-                nums[i]=odd[j]
-                j+=1
+            nums[i]=odd[j]
+            j+=1
         return nums
         
