@@ -10,6 +10,5 @@ class Solution(object):
                 return False
         if len(arr)==len(res) and arr==res:
             return True
-        else:
-            return False
+        return False
         
