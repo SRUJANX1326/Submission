@@ -7,7 +7,6 @@ class Solution(object):
             nums.append(0)
         condition=True
         for i in range(0,(n+1)//2):
-            print(nums,i)
             temp=2 * i
             nums[temp]=nums[i]
             nums[temp+1]=nums[i] + nums[i + 1]
