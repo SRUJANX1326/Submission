@@ -9,7 +9,7 @@ class Solution(object):
                 help_dict[nums.count(x)].add(x)
         for dummy in range(len(nums)):
             if list(help_dict)==[]:
-                continue
+                break
             freq=min(help_dict)
             if help_dict[freq]==set():
                 del help_dict[freq]
