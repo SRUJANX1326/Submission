@@ -6,7 +6,8 @@ class Solution(object):
                 if arr[i]==pieces[j][0]:
                     res=res+pieces[j]
                     break
-            
+            if res[:i]!=arr[:i]:
+                return False
         if len(arr)==len(res) and arr==res:
             return True
         else:
