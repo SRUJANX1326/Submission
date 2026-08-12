@@ -9,8 +9,6 @@ class Solution(object):
             if arr[-1]<=x:
                 return False
         return True
-
-
     def findValidElements(self, nums):
         result=[]
         result.append(nums[0])
