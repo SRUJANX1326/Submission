@@ -13,7 +13,6 @@ class Solution(object):
                 lim=k
             for i in range(lim):
                 res.append(x)
-        print(res)
         res.sort()
         return res
                 
