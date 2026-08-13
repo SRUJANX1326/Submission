@@ -3,6 +3,5 @@ class Solution(object):
         s=''
         for x in nums:
             s=s+str(x)
-        ans=list(map(int,list(s)))
-        return ans
+        return list(map(int,list(s)))
         
