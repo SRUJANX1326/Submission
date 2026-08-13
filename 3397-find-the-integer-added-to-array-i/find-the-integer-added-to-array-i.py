@@ -26,7 +26,6 @@ class Solution(object):
                 return -i
             elif temp==nums2 and nums1[-1]<=nums2[-1]:
                 return i
-        return -12
 
         
 
