@@ -8,7 +8,6 @@ class Solution {
             }
             if(HS.contains(nums[i])){
                 HS.remove(nums[i]);
-                continue;
             }
         }
         return HS.iterator().next();
