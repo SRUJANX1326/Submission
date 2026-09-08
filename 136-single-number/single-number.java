@@ -11,9 +11,6 @@ class Solution {
                 continue;
             }
         }
-        for(int x: HS){
-            return x;
-        }
-        return 1;
+        return HS.iterator().next();
     }
 }
