@@ -1,7 +1,6 @@
 class Solution {
     public boolean isPowerOfThree(int n) {
-        double x=Math.log10(n)/Math.log10(3);
-        if(x%1.0==0.0){
+        if(Math.log10(n)/Math.log10(3)%1.0==0.0){
             return true;
         }
         return false;
