@@ -17,12 +17,14 @@ class Solution {
     TreeNode answerNode=new TreeNode();
     boolean found=false;
     public void traverse(TreeNode root,int val){
-        if(root==null) return;
+        if(root==null ) return;
         if(root.val==val){
              answerNode=root;
              found=true;
+             return;
         }
         traverse(root.left,val);
+        if(found) return;
         traverse(root.right,val);
     }
     public TreeNode searchBST(TreeNode root, int val) {
