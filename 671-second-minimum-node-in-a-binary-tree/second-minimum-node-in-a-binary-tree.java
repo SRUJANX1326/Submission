@@ -24,12 +24,10 @@ class Solution {
     public int findSecondMinimumValue(TreeNode root) {
         traverse(root);
         ans.removeFirst();
-        int ssm;
         try{
-            ssm=ans.getFirst();
+            return ans.getFirst();
         }catch(Exception E){
             return -1;
         }
-        return ssm;
     }
 }
