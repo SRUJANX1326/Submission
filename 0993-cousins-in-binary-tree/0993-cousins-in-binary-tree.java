@@ -32,10 +32,7 @@ class Solution {
     public void traverse(TreeNode root, int target) {
         if (root == null)
             return;
-            
-        traverse(root.left, target);
-        traverse(root.right, target);
-        if (root.left != null) {
+            if (root.left != null) {
             if (root.left.val == target){
                 parent = root;
                 return;
@@ -47,6 +44,8 @@ class Solution {
                 return;
             }
         }
+        traverse(root.left, target);
+        traverse(root.right, target);
         
     }
 
