@@ -14,14 +14,11 @@
  * }
  */
 class Solution {
-    public int depth(TreeNode root){
+    public int minDepth(TreeNode root) {
         if(root==null) return 0;
         if(root.left==null && root.right==null) return 1;
-        if(root.left==null) return 1+depth(root.right);
-        if(root.right==null) return 1+depth(root.left);
-        return 1+Math.min(depth(root.left),depth(root.right));
-    }
-    public int minDepth(TreeNode root) {
-        return depth(root);
+        if(root.left==null) return 1+minDepth(root.right);
+        if(root.right==null) return 1+minDepth(root.left);
+        return 1+Math.min(minDepth(root.left),minDepth(root.right));
     }
 }
