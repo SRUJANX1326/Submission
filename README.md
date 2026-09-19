@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0993-cousins-in-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SRUJANX1326/Submission/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SRUJANX1326/Submission/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
