@@ -44,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SRUJANX1326/Submission/tree/master/0442-find-all-duplicates-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SRUJANX1326/Submission/tree/master/0442-find-all-duplicates-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SRUJANX1326/Submission/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
