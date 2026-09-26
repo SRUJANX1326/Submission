@@ -3,7 +3,7 @@ class Solution {
         int count=0;
         for(int i=0;i<nums.length-1;i++){
             if(nums[i]>=nums[i+1]){
-                int increment=Math.abs(nums[i]-nums[i+1]);
+                int increment=nums[i]-nums[i+1];
                 nums[i+1]+=increment+1;
                 count+=increment+1;
             }
