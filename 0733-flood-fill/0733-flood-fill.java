@@ -1,39 +1,28 @@
 class Solution {
-    public void changeColor(int[][] image,int sr,int sc,int color){
-        int oldColor=image[sr][sc];
-        image[sr][sc]=color;
-        try{
-            if(oldColor==image[sr+1][sc]){
-                changeColor(image,sr+1,sc,color);
-            }
-        }catch(Exception E){
-
+    int width,height;
+    public void changeColor(int[][] image, int sr, int sc, int color) {
+        int oldColor = image[sr][sc];
+        image[sr][sc] = color;
+        
+    if(sr+1<=height) if (oldColor == image[sr + 1][sc]) {
+            changeColor(image, sr + 1, sc, color);
         }
-        try{
-            if(oldColor==image[sr][sc-1]){
-                changeColor(image,sr,sc-1,color);
-            }
-        }catch(Exception E){
-
+    if(sc-1>=0)    if (oldColor == image[sr][sc - 1]) {
+            changeColor(image, sr, sc - 1, color);
         }
-        try{
-            if(oldColor==image[sr][sc+1]){
-                changeColor(image,sr,sc+1,color);
-            }
-        }catch(Exception E){
-
+    if(sc+1<=width)    if (oldColor == image[sr][sc + 1]) {
+            changeColor(image, sr, sc + 1, color);
         }
-        try{
-            if(oldColor==image[sr-1][sc]){
-                changeColor(image,sr-1,sc,color);
-            }
-        }catch(Exception E){
-
+    if(sr-1>=0)    if (oldColor == image[sr - 1][sc]) {
+            changeColor(image, sr - 1, sc, color);
         }
     }
+
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        height=image.length-1;
+        width=image[0].length-1;
         if (image[sr][sc] != color) {
-            changeColor(image,sr,sc,color);
+            changeColor(image, sr, sc, color);
         }
         return image;
     }
