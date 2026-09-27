@@ -10,7 +10,8 @@ class Solution {
                 j++;
             }
         }
-        if(i==s.length()) return true;
-        return false;
+        if(i!=s.length()) return false;
+        return true;
+        
     }
 }
