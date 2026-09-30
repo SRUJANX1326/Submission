@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SRUJANX1326/Submission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SRUJANX1326/Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/SRUJANX1326/Submission/tree/master/1323-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -98,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SRUJANX1326/Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRUJANX1326/Submission/tree/master/0733-flood-fill) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SRUJANX1326/Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SRUJANX1326/Submission/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 | [2716-minimize-string-length](https://github.com/SRUJANX1326/Submission/tree/master/2716-minimize-string-length) |
 ## Sorting
 |  |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/SRUJANX1326/Submission/tree/master/1323-maximum-69-number) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
