@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
 | [2716-minimize-string-length](https://github.com/SRUJANX1326/Submission/tree/master/2716-minimize-string-length) |
+| [3340-check-balanced-string](https://github.com/SRUJANX1326/Submission/tree/master/3340-check-balanced-string) |
 ## Simulation
 |  |
 | ------- |
