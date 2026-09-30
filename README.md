@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/SRUJANX1326/Submission/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/SRUJANX1326/Submission/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SRUJANX1326/Submission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SRUJANX1326/Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SRUJANX1326/Submission/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/SRUJANX1326/Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRUJANX1326/Submission/tree/master/0733-flood-fill) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/SRUJANX1326/Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
