@@ -1,0 +1,9 @@
+class Solution {
+    public String getEncryptedString(String s, int k) {
+        String encrypted="";
+        for(int i=0;i<s.length();i++){
+            encrypted+=s.charAt((i+k)%s.length());
+        }
+        return encrypted;
+    }
+}
