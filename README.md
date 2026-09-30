@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/SRUJANX1326/Submission/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SRUJANX1326/Submission/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/SRUJANX1326/Submission/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SRUJANX1326/Submission/tree/master/0098-validate-binary-search-tree) |
+| [0367-valid-perfect-square](https://github.com/SRUJANX1326/Submission/tree/master/0367-valid-perfect-square) |
 ## Matrix
 |  |
 | ------- |
