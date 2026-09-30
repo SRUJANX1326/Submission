@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
+| [2278-percentage-of-letter-in-string](https://github.com/SRUJANX1326/Submission/tree/master/2278-percentage-of-letter-in-string) |
 | [2716-minimize-string-length](https://github.com/SRUJANX1326/Submission/tree/master/2716-minimize-string-length) |
 | [3110-score-of-a-string](https://github.com/SRUJANX1326/Submission/tree/master/3110-score-of-a-string) |
 | [3210-find-the-encrypted-string](https://github.com/SRUJANX1326/Submission/tree/master/3210-find-the-encrypted-string) |
