@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/SRUJANX1326/Submission/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SRUJANX1326/Submission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SRUJANX1326/Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/SRUJANX1326/Submission/tree/master/1323-maximum-69-number) |
 ## Recursion
 |  |
 | ------- |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3794-reverse-string-prefix](https://github.com/SRUJANX1326/Submission/tree/master/3794-reverse-string-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/SRUJANX1326/Submission/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
