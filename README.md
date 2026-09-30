@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SRUJANX1326/Submission/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/SRUJANX1326/Submission/tree/master/0728-self-dividing-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SRUJANX1326/Submission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
