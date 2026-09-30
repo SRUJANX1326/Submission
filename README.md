@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SRUJANX1326/Submission/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/SRUJANX1326/Submission/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/SRUJANX1326/Submission/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
