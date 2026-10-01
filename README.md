@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SRUJANX1326/Submission/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2235-add-two-integers](https://github.com/SRUJANX1326/Submission/tree/master/2235-add-two-integers) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SRUJANX1326/Submission/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2413-smallest-even-multiple](https://github.com/SRUJANX1326/Submission/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SRUJANX1326/Submission/tree/master/2269-find-the-k-beauty-of-a-number) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/SRUJANX1326/Submission/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
