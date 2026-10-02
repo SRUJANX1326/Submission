@@ -14,12 +14,12 @@ class Solution {
         }catch(Exception E){
             return true;
         }
-        System.out.println(choice);
+
         switch(choice){
             case 1:{
                 for(int i=1;i<s.length();i++){
                     if(Character.isLowerCase(s.charAt(i))){ return false;}
-                    System.out.println('e');
+
                 }
                 break;
             }
