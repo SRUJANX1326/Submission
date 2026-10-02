@@ -6,10 +6,10 @@ class Solution {
             if(s.charAt(i)=='A'){ 
                 A++;
                 if(A>=2) return false;
+                continue;
             }
             if(s.charAt(i)=='L'){
                 L++;
-                
                 try{
                     if(s.charAt(i+1)=='L' & s.charAt(i+2)=='L') return false;
                 }catch(Exception E){
