@@ -10,11 +10,8 @@ class Solution {
             }
             if(s.charAt(i)=='L'){
                 L++;
-                try{
-                    if(s.charAt(i+1)=='L' & s.charAt(i+2)=='L') return false;
-                }catch(Exception E){
-                    
-                }
+                if(i+2<s.length())  if(s.charAt(i+1)=='L' & s.charAt(i+2)=='L') return false;
+                
             }
             
         }
