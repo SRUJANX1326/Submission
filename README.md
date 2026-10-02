@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/SRUJANX1326/Submission/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/SRUJANX1326/Submission/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/SRUJANX1326/Submission/tree/master/0551-student-attendance-record-i) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SRUJANX1326/Submission/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SRUJANX1326/Submission/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/SRUJANX1326/Submission/tree/master/2278-percentage-of-letter-in-string) |
