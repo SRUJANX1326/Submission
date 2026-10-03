@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SRUJANX1326/Submission/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/SRUJANX1326/Submission/tree/master/0728-self-dividing-numbers) |
+| [1037-valid-boomerang](https://github.com/SRUJANX1326/Submission/tree/master/1037-valid-boomerang) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SRUJANX1326/Submission/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SRUJANX1326/Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/SRUJANX1326/Submission/tree/master/1323-maximum-69-number) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SRUJANX1326/Submission/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/SRUJANX1326/Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRUJANX1326/Submission/tree/master/0733-flood-fill) |
+| [1037-valid-boomerang](https://github.com/SRUJANX1326/Submission/tree/master/1037-valid-boomerang) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SRUJANX1326/Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SRUJANX1326/Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1037-valid-boomerang](https://github.com/SRUJANX1326/Submission/tree/master/1037-valid-boomerang) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/SRUJANX1326/Submission/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Prefix Sum
 |  |
