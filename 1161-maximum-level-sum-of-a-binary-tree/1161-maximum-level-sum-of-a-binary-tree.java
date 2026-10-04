@@ -26,7 +26,6 @@ class Solution {
             int count=q.size();
             for (int i = 0; i < count; i++) {
                 TreeNode temp = q.poll();
-                System.out.println("Level" + current_level + "Nodes" +temp.val);
                 sum += temp.val;
                 if (temp.left != null)
                     q.add(temp.left);
@@ -34,13 +33,10 @@ class Solution {
                     q.add(temp.right);
                 
             }
-            System.out.println("Level" + current_level);
-            System.out.println(sum);
             if (max_sum < sum) {
                 max_sum = sum;
                 level=current_level;
             }
-            
             current_level++;
         }
     }
