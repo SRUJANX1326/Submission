@@ -13,7 +13,7 @@ class Solution {
         }
         int max_len = 0;
         for (int i = 0; i < AL.size(); i++) {
-            for (int j = i + 1; j < AL.size(); j++) {
+            for (int j = i+1; j < AL.size(); j++) {
                 HashSet<Character> one = AL.get(i);
                 HashSet<Character> two = AL.get(j);
                 HashSet<Character> temp = new HashSet(one);
