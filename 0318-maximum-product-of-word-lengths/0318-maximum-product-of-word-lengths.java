@@ -1,6 +1,5 @@
 class Solution {
     ArrayList<HashSet> AL = new ArrayList();
-
     public void makeHS(String s) {
         HashSet<Character> temp = new HashSet();
         for (int i = 0; i < s.length(); i++) {
@@ -8,7 +7,6 @@ class Solution {
         }
         AL.add(temp);
     }
-
     public int maxProduct(String[] words) {
         for (int i = 0; i < words.length; i++) {
             makeHS(words[i]);
