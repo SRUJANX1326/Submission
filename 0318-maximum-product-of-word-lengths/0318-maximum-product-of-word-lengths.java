@@ -13,7 +13,6 @@ class Solution {
         for (int i = 0; i < words.length; i++) {
             makeHS(words[i]);
         }
-        System.out.println(AL);
         int max_len = 0;
         for (int i = 0; i < AL.size(); i++) {
             for (int j = i + 1; j < AL.size(); j++) {
