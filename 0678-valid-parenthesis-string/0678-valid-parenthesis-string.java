@@ -1,32 +1,30 @@
-import java.util.ArrayDeque;
-import java.util.Deque;
-
 class Solution {
     public boolean checkValidString(String s) {
-        Deque<Integer> bracket = new ArrayDeque<>();
-        Deque<Integer> star = new ArrayDeque<>();
+        ArrayList<Integer> bracket = new ArrayList<>();
+        ArrayList<Integer> star = new ArrayList<>();
 
         for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (c == '(') {
-                bracket.push(i);
-            } else if (c == '*') {
-                star.push(i);
-            } else { // c == ')'
+            if (s.charAt(i) == '(') {
+                bracket.addLast(i);
+            } else if (s.charAt(i) == '*') {
+                star.addLast(i);
+            } else {
                 if (!bracket.isEmpty()) {
-                    bracket.pop();
+                    bracket.removeLast();
                 } else if (!star.isEmpty()) {
-                    star.pop();
+                    star.removeLast();
                 } else {
                     return false;
                 }
             }
         }
 
-        // Match remaining '(' with '*' that appear after them
         while (!bracket.isEmpty() && !star.isEmpty()) {
-            if (bracket.pop() > star.pop()) {
-                return false; // '(' appears after '*', cannot be closed
+            int bracketIndex = bracket.removeLast();
+            int starIndex = star.removeLast();
+
+            if (bracketIndex > starIndex) {
+                return false;
             }
         }
 
