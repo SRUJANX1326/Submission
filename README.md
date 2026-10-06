@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJANX1326/Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRUJANX1326/Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/SRUJANX1326/Submission/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/SRUJANX1326/Submission/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/SRUJANX1326/Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRUJANX1326/Submission/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRUJANX1326/Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/SRUJANX1326/Submission/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/SRUJANX1326/Submission/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJANX1326/Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRUJANX1326/Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0814-binary-tree-pruning](https://github.com/SRUJANX1326/Submission/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/SRUJANX1326/Submission/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
