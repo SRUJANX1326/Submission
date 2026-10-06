@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/SRUJANX1326/Submission/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJANX1326/Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRUJANX1326/Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/SRUJANX1326/Submission/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0993-cousins-in-binary-tree) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/SRUJANX1326/Submission/tree/master/0538-convert-bst-to-greater-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJANX1326/Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRUJANX1326/Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/SRUJANX1326/Submission/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0993-cousins-in-binary-tree) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/SRUJANX1326/Submission/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SRUJANX1326/Submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SRUJANX1326/Submission/tree/master/0485-max-consecutive-ones) |
+| [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/SRUJANX1326/Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRUJANX1326/Submission/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/SRUJANX1326/Submission/tree/master/0867-transpose-matrix) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/SRUJANX1326/Submission/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -284,4 +288,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SRUJANX1326/Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
