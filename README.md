@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/SRUJANX1326/Submission/tree/master/0657-robot-return-to-origin) |
+| [0867-transpose-matrix](https://github.com/SRUJANX1326/Submission/tree/master/0867-transpose-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/SRUJANX1326/Submission/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SRUJANX1326/Submission/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/SRUJANX1326/Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRUJANX1326/Submission/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/SRUJANX1326/Submission/tree/master/0867-transpose-matrix) |
 | [1037-valid-boomerang](https://github.com/SRUJANX1326/Submission/tree/master/1037-valid-boomerang) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SRUJANX1326/Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SRUJANX1326/Submission/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/SRUJANX1326/Submission/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/SRUJANX1326/Submission/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/SRUJANX1326/Submission/tree/master/0867-transpose-matrix) |
 ## Union-Find
 |  |
 | ------- |
