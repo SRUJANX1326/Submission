@@ -20,7 +20,6 @@ class Solution {
     public void traverse(TreeNode root){
         if(root==null) return;
         if(root.val>=low && root.val<=high) sum+=root.val;
-        System.out.println(low);
         traverse(root.left);
         traverse(root.right);
     }
