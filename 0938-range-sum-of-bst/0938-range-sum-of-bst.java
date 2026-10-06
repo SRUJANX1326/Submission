@@ -20,8 +20,8 @@ class Solution {
     public void traverse(TreeNode root){
         if(root==null) return;
         if(root.val>=low && root.val<=high) sum+=root.val;
-        traverse(root.left);
-        traverse(root.right);
+        if(root.val>low)    traverse(root.left);
+        if(root.val<high)   traverse(root.right);
     }
     public int rangeSumBST(TreeNode root, int l, int h) {
         low=l;
