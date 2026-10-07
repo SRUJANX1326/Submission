@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SRUJANX1326/Submission/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/SRUJANX1326/Submission/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/SRUJANX1326/Submission/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/SRUJANX1326/Submission/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/SRUJANX1326/Submission/tree/master/0728-self-dividing-numbers) |
 | [1037-valid-boomerang](https://github.com/SRUJANX1326/Submission/tree/master/1037-valid-boomerang) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/SRUJANX1326/Submission/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/SRUJANX1326/Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/SRUJANX1326/Submission/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/SRUJANX1326/Submission/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/SRUJANX1326/Submission/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/SRUJANX1326/Submission/tree/master/0551-student-attendance-record-i) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/SRUJANX1326/Submission/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/SRUJANX1326/Submission/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/SRUJANX1326/Submission/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/SRUJANX1326/Submission/tree/master/0867-transpose-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/SRUJANX1326/Submission/tree/master/3498-reverse-degree-of-a-string) |
