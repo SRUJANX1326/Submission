@@ -7,8 +7,14 @@ class Solution {
         for(i=0,j=0;i<one && j<two;i++,j++){
             ans+=""+word1.charAt(i)+word2.charAt(j);
         }
-        ans+=""+word1.substring(i,one);
-        ans+=""+word2.substring(j,two);
+        while(i<one){
+            ans+=""+word1.charAt(i);
+            i++;
+        }
+        while(j<two){
+            ans+=""+word2.charAt(j);
+            j++;
+        }
         return ans;
         
     }
