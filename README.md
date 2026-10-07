@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/SRUJANX1326/Submission/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SRUJANX1326/Submission/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/SRUJANX1326/Submission/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/SRUJANX1326/Submission/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SRUJANX1326/Submission/tree/master/0507-perfect-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SRUJANX1326/Submission/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/SRUJANX1326/Submission/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/SRUJANX1326/Submission/tree/master/0867-transpose-matrix) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/SRUJANX1326/Submission/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SRUJANX1326/Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/SRUJANX1326/Submission/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/SRUJANX1326/Submission/tree/master/2427-number-of-common-factors) |
