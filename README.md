@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/0014-longest-common-prefix) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SRUJANX1326/Submission/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/SRUJANX1326/Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/SRUJANX1326/Submission/tree/master/0412-fizz-buzz) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/0014-longest-common-prefix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SRUJANX1326/Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/SRUJANX1326/Submission/tree/master/0200-number-of-islands) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SRUJANX1326/Submission/tree/master/0318-maximum-product-of-word-lengths) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
