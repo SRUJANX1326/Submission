@@ -8,13 +8,11 @@ class Solution {
             ans.append(word1.charAt(i));
             ans.append(word2.charAt(i));
         }
-        while(i<one){
-            ans.append(word1.charAt(i));
-            i++;
+        if(i<one){
+            ans.append(word1.substring(i,one));
         }
-        while(i<two){
-            ans.append(word2.charAt(i));
-            i++;
+        if(i<two){
+            ans.append(word2.substring(i,two));
         }
         return ans.toString();
         
