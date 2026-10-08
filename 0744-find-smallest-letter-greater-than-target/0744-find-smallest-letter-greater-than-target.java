@@ -1,9 +1,11 @@
 class Solution {
     public char nextGreatestLetter(char[] l, char t) {
+        HashSet<Character> HS=new HashSet();
         for(int i=0;i<l.length;i++){
-            if(l[i]>t){
-                return l[i];
-            }
+            HS.add(l[i]);
+        }
+        for(int i=t+1;i<123;i++){
+            if(HS.contains((char)i)) return (char)i;
         }
         return l[0];
     }
