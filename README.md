@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/0014-longest-common-prefix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SRUJANX1326/Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SRUJANX1326/Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/SRUJANX1326/Submission/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/SRUJANX1326/Submission/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SRUJANX1326/Submission/tree/master/0318-maximum-product-of-word-lengths) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/SRUJANX1326/Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/SRUJANX1326/Submission/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
