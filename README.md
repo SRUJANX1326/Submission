@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/SRUJANX1326/Submission/tree/master/0318-maximum-product-of-word-lengths) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SRUJANX1326/Submission/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SRUJANX1326/Submission/tree/master/0485-max-consecutive-ones) |
+| [0575-distribute-candies](https://github.com/SRUJANX1326/Submission/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/SRUJANX1326/Submission/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
 | [0695-max-area-of-island](https://github.com/SRUJANX1326/Submission/tree/master/0695-max-area-of-island) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SRUJANX1326/Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SRUJANX1326/Submission/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0575-distribute-candies](https://github.com/SRUJANX1326/Submission/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJANX1326/Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/SRUJANX1326/Submission/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
