@@ -7,6 +7,8 @@ class Solution {
         return ans;
     }
     public int totalWaviness(int num1, int num2) {
+        if(num2<100) return 0;
+        if(num1<100) num1=100;
         int ans=0;
         for(int i=num1;i<=num2;i++){
             ans+=POV(Integer.toString(i));
