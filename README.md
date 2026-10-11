@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/0014-longest-common-prefix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SRUJANX1326/Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SRUJANX1326/Submission/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRUJANX1326/Submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/SRUJANX1326/Submission/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/SRUJANX1326/Submission/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/SRUJANX1326/Submission/tree/master/0303-range-sum-query-immutable) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/SRUJANX1326/Submission/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SRUJANX1326/Submission/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SRUJANX1326/Submission/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SRUJANX1326/Submission/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0367-valid-perfect-square](https://github.com/SRUJANX1326/Submission/tree/master/0367-valid-perfect-square) |
 | [0450-delete-node-in-a-bst](https://github.com/SRUJANX1326/Submission/tree/master/0450-delete-node-in-a-bst) |
