@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/SRUJANX1326/Submission/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SRUJANX1326/Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SRUJANX1326/Submission/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SRUJANX1326/Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRUJANX1326/Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJANX1326/Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/SRUJANX1326/Submission/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
+| [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/SRUJANX1326/Submission/tree/master/2716-minimize-string-length) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SRUJANX1326/Submission/tree/master/2729-check-if-the-number-is-fascinating) |
 ## Sorting
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SRUJANX1326/Submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRUJANX1326/Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/SRUJANX1326/Submission/tree/master/0938-range-sum-of-bst) |
+| [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJANX1326/Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0917-reverse-only-letters](https://github.com/SRUJANX1326/Submission/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/SRUJANX1326/Submission/tree/master/1768-merge-strings-alternately) |
+| [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/SRUJANX1326/Submission/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
