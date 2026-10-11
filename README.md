@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SRUJANX1326/Submission/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SRUJANX1326/Submission/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
+| [2574-left-and-right-sum-differences](https://github.com/SRUJANX1326/Submission/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SRUJANX1326/Submission/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SRUJANX1326/Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRUJANX1326/Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SRUJANX1326/Submission/tree/master/0303-range-sum-query-immutable) |
 | [2485-find-the-pivot-integer](https://github.com/SRUJANX1326/Submission/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/SRUJANX1326/Submission/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
 |  |
 | ------- |
