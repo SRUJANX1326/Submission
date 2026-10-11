@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SRUJANX1326/Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/SRUJANX1326/Submission/tree/master/1572-matrix-diagonal-sum) |
+| [1732-find-the-highest-altitude](https://github.com/SRUJANX1326/Submission/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SRUJANX1326/Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/SRUJANX1326/Submission/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SRUJANX1326/Submission/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/SRUJANX1326/Submission/tree/master/0303-range-sum-query-immutable) |
+| [1732-find-the-highest-altitude](https://github.com/SRUJANX1326/Submission/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/SRUJANX1326/Submission/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/SRUJANX1326/Submission/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
