@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SRUJANX1326/Submission/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SRUJANX1326/Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SRUJANX1326/Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/SRUJANX1326/Submission/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRUJANX1326/Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/SRUJANX1326/Submission/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/SRUJANX1326/Submission/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SRUJANX1326/Submission/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/SRUJANX1326/Submission/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/SRUJANX1326/Submission/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/SRUJANX1326/Submission/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SRUJANX1326/Submission/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/SRUJANX1326/Submission/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Counting
 |  |
 | ------- |
