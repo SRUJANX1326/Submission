@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/SRUJANX1326/Submission/tree/master/0867-transpose-matrix) |
 | [1037-valid-boomerang](https://github.com/SRUJANX1326/Submission/tree/master/1037-valid-boomerang) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SRUJANX1326/Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SRUJANX1326/Submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/SRUJANX1326/Submission/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/SRUJANX1326/Submission/tree/master/1732-find-the-highest-altitude) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SRUJANX1326/Submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SRUJANX1326/Submission/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Number Theory
 |  |
