@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/SRUJANX1326/Submission/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SRUJANX1326/Submission/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRUJANX1326/Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SRUJANX1326/Submission/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SRUJANX1326/Submission/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SRUJANX1326/Submission/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SRUJANX1326/Submission/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2427-number-of-common-factors](https://github.com/SRUJANX1326/Submission/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SRUJANX1326/Submission/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SRUJANX1326/Submission/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRUJANX1326/Submission/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Euclidean Algorithm
 |  |
