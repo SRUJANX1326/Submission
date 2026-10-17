@@ -3,15 +3,12 @@ class Solution {
         ArrayList<Integer> AL = new ArrayList<>();
         for (int i = 0; i + k <= nums.length; i++) {
             int[] temp = Arrays.copyOfRange(nums, i, i + k);
-            
-            // Use a temporary set for this specific window so duplicate values 
-            // inside the same window only count once per window.
+
             HashSet<Integer> windowSet = new HashSet<>();
             for (int x : temp) {
                 windowSet.add(x);
             }
-            
-            // Add unique elements of this window to our master list
+ 
             for (int x : windowSet) {
                 AL.add(x);
             }
