@@ -1,7 +1,7 @@
 class Solution {
     public int maxProduct(int n) {
-        int largest=Integer.MIN_VALUE;
-        int larger=Integer.MIN_VALUE;
+        int largest=-1;
+        int larger=-1;
         while(n>0){
             int digit=n%10;
             if(digit>=largest){
