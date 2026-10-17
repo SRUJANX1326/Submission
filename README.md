@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SRUJANX1326/Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRUJANX1326/Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SRUJANX1326/Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SRUJANX1326/Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SRUJANX1326/Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SRUJANX1326/Submission/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SRUJANX1326/Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SRUJANX1326/Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
