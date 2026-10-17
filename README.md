@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/SRUJANX1326/Submission/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SRUJANX1326/Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SRUJANX1326/Submission/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SRUJANX1326/Submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SRUJANX1326/Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SRUJANX1326/Submission/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SRUJANX1326/Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/SRUJANX1326/Submission/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SRUJANX1326/Submission/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRUJANX1326/Submission/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SRUJANX1326/Submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SRUJANX1326/Submission/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SRUJANX1326/Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/SRUJANX1326/Submission/tree/master/3536-maximum-product-of-two-digits) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/SRUJANX1326/Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/SRUJANX1326/Submission/tree/master/0938-range-sum-of-bst) |
 | [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SRUJANX1326/Submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/SRUJANX1326/Submission/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SRUJANX1326/Submission/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SRUJANX1326/Submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/SRUJANX1326/Submission/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
