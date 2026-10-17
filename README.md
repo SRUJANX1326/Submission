@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SRUJANX1326/Submission/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/SRUJANX1326/Submission/tree/master/2278-percentage-of-letter-in-string) |
 | [2716-minimize-string-length](https://github.com/SRUJANX1326/Submission/tree/master/2716-minimize-string-length) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SRUJANX1326/Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/SRUJANX1326/Submission/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SRUJANX1326/Submission/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3210-find-the-encrypted-string](https://github.com/SRUJANX1326/Submission/tree/master/3210-find-the-encrypted-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/SRUJANX1326/Submission/tree/master/2716-minimize-string-length) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SRUJANX1326/Submission/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SRUJANX1326/Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SRUJANX1326/Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SRUJANX1326/Submission/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SRUJANX1326/Submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SRUJANX1326/Submission/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/SRUJANX1326/Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
 |  |
 | ------- |
