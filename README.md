@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SRUJANX1326/Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRUJANX1326/Submission/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SRUJANX1326/Submission/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/SRUJANX1326/Submission/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/SRUJANX1326/Submission/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/SRUJANX1326/Submission/tree/master/2278-percentage-of-letter-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SRUJANX1326/Submission/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SRUJANX1326/Submission/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRUJANX1326/Submission/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SRUJANX1326/Submission/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/SRUJANX1326/Submission/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SRUJANX1326/Submission/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SRUJANX1326/Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
