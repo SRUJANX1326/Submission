@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/SRUJANX1326/Submission/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/SRUJANX1326/Submission/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/SRUJANX1326/Submission/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2465-number-of-distinct-averages](https://github.com/SRUJANX1326/Submission/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SRUJANX1326/Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/SRUJANX1326/Submission/tree/master/2574-left-and-right-sum-differences) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/SRUJANX1326/Submission/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/SRUJANX1326/Submission/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/SRUJANX1326/Submission/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/SRUJANX1326/Submission/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SRUJANX1326/Submission/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/SRUJANX1326/Submission/tree/master/2716-minimize-string-length) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SRUJANX1326/Submission/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRUJANX1326/Submission/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2418-sort-the-people](https://github.com/SRUJANX1326/Submission/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/SRUJANX1326/Submission/tree/master/2465-number-of-distinct-averages) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SRUJANX1326/Submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SRUJANX1326/Submission/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SRUJANX1326/Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/SRUJANX1326/Submission/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/SRUJANX1326/Submission/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SRUJANX1326/Submission/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2465-number-of-distinct-averages](https://github.com/SRUJANX1326/Submission/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SRUJANX1326/Submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/SRUJANX1326/Submission/tree/master/3794-reverse-string-prefix) |
