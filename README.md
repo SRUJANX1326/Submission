@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SRUJANX1326/Submission/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SRUJANX1326/Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/SRUJANX1326/Submission/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRUJANX1326/Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SRUJANX1326/Submission/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SRUJANX1326/Submission/tree/master/3718-smallest-missing-multiple-of-k) |
