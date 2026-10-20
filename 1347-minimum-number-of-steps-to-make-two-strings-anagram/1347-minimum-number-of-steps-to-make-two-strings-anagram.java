@@ -7,9 +7,9 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             int idx = s.charAt(i) - 'a';
             if (freq[idx] > 0) {
-                freq[idx]--;   // matched, "remove" from t
+                freq[idx]--;   
             } else {
-                count++;       // unmatched, needs a change
+                count++;       
             }
         }
         return count;
