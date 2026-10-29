@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/SRUJANX1326/Submission/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SRUJANX1326/Submission/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SRUJANX1326/Submission/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1952-three-divisors](https://github.com/SRUJANX1326/Submission/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SRUJANX1326/Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SRUJANX1326/Submission/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/SRUJANX1326/Submission/tree/master/2235-add-two-integers) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/SRUJANX1326/Submission/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/SRUJANX1326/Submission/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SRUJANX1326/Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/SRUJANX1326/Submission/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/SRUJANX1326/Submission/tree/master/2427-number-of-common-factors) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/SRUJANX1326/Submission/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/SRUJANX1326/Submission/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SRUJANX1326/Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SRUJANX1326/Submission/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -542,4 +545,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/SRUJANX1326/Submission/tree/master/2396-strictly-palindromic-number) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SRUJANX1326/Submission/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/SRUJANX1326/Submission/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
