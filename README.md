@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SRUJANX1326/Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/SRUJANX1326/Submission/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SRUJANX1326/Submission/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3174-clear-digits](https://github.com/SRUJANX1326/Submission/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/SRUJANX1326/Submission/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/SRUJANX1326/Submission/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/SRUJANX1326/Submission/tree/master/3498-reverse-degree-of-a-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRUJANX1326/Submission/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SRUJANX1326/Submission/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/SRUJANX1326/Submission/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/SRUJANX1326/Submission/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/SRUJANX1326/Submission/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/SRUJANX1326/Submission/tree/master/3894-traffic-signal-color) |
 ## Array
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SRUJANX1326/Submission/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SRUJANX1326/Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/SRUJANX1326/Submission/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/SRUJANX1326/Submission/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
