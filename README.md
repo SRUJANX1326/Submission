@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SRUJANX1326/Submission/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SRUJANX1326/Submission/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/SRUJANX1326/Submission/tree/master/0055-jump-game) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SRUJANX1326/Submission/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/SRUJANX1326/Submission/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/SRUJANX1326/Submission/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SRUJANX1326/Submission/tree/master/0287-find-the-duplicate-number) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SRUJANX1326/Submission/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/SRUJANX1326/Submission/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/SRUJANX1326/Submission/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/SRUJANX1326/Submission/tree/master/0605-can-place-flowers) |
