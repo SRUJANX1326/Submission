@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/SRUJANX1326/Submission/tree/master/0125-valid-palindrome) |
 | [0318-maximum-product-of-word-lengths](https://github.com/SRUJANX1326/Submission/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/SRUJANX1326/Submission/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SRUJANX1326/Submission/tree/master/0387-first-unique-character-in-a-string) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SRUJANX1326/Submission/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/SRUJANX1326/Submission/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/SRUJANX1326/Submission/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SRUJANX1326/Submission/tree/master/0344-reverse-string) |
