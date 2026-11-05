@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SRUJANX1326/Submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SRUJANX1326/Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SRUJANX1326/Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/SRUJANX1326/Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SRUJANX1326/Submission/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/SRUJANX1326/Submission/tree/master/1550-three-consecutive-odds) |
