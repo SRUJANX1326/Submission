@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SRUJANX1326/Submission/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SRUJANX1326/Submission/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1688-count-of-matches-in-tournament](https://github.com/SRUJANX1326/Submission/tree/master/1688-count-of-matches-in-tournament) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SRUJANX1326/Submission/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/SRUJANX1326/Submission/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/SRUJANX1326/Submission/tree/master/1952-three-divisors) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/SRUJANX1326/Submission/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/SRUJANX1326/Submission/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/SRUJANX1326/Submission/tree/master/0867-transpose-matrix) |
+| [1688-count-of-matches-in-tournament](https://github.com/SRUJANX1326/Submission/tree/master/1688-count-of-matches-in-tournament) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SRUJANX1326/Submission/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SRUJANX1326/Submission/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/SRUJANX1326/Submission/tree/master/2390-removing-stars-from-a-string) |
