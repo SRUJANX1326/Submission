@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/SRUJANX1326/Submission/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/SRUJANX1326/Submission/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/SRUJANX1326/Submission/tree/master/1773-count-items-matching-a-rule) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SRUJANX1326/Submission/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SRUJANX1326/Submission/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SRUJANX1326/Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/SRUJANX1326/Submission/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SRUJANX1326/Submission/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1496-path-crossing](https://github.com/SRUJANX1326/Submission/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SRUJANX1326/Submission/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SRUJANX1326/Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SRUJANX1326/Submission/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SRUJANX1326/Submission/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SRUJANX1326/Submission/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SRUJANX1326/Submission/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SRUJANX1326/Submission/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SRUJANX1326/Submission/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SRUJANX1326/Submission/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SRUJANX1326/Submission/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
