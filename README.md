@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SRUJANX1326/Submission/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SRUJANX1326/Submission/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SRUJANX1326/Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SRUJANX1326/Submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/SRUJANX1326/Submission/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/SRUJANX1326/Submission/tree/master/2595-number-of-even-and-odd-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SRUJANX1326/Submission/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SRUJANX1326/Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SRUJANX1326/Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/SRUJANX1326/Submission/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SRUJANX1326/Submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SRUJANX1326/Submission/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/SRUJANX1326/Submission/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/SRUJANX1326/Submission/tree/master/1773-count-items-matching-a-rule) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/SRUJANX1326/Submission/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/SRUJANX1326/Submission/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SRUJANX1326/Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SRUJANX1326/Submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/SRUJANX1326/Submission/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/SRUJANX1326/Submission/tree/master/1773-count-items-matching-a-rule) |
 | [1833-maximum-ice-cream-bars](https://github.com/SRUJANX1326/Submission/tree/master/1833-maximum-ice-cream-bars) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SRUJANX1326/Submission/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1496-path-crossing](https://github.com/SRUJANX1326/Submission/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SRUJANX1326/Submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SRUJANX1326/Submission/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SRUJANX1326/Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SRUJANX1326/Submission/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SRUJANX1326/Submission/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SRUJANX1326/Submission/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/SRUJANX1326/Submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SRUJANX1326/Submission/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/SRUJANX1326/Submission/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/SRUJANX1326/Submission/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
