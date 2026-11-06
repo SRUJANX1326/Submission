@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/SRUJANX1326/Submission/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/SRUJANX1326/Submission/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/SRUJANX1326/Submission/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SRUJANX1326/Submission/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SRUJANX1326/Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/SRUJANX1326/Submission/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/SRUJANX1326/Submission/tree/master/2595-number-of-even-and-odd-bits) |
