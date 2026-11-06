@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/SRUJANX1326/Submission/tree/master/1773-count-items-matching-a-rule) |
 | [1833-maximum-ice-cream-bars](https://github.com/SRUJANX1326/Submission/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SRUJANX1326/Submission/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SRUJANX1326/Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SRUJANX1326/Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/SRUJANX1326/Submission/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SRUJANX1326/Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SRUJANX1326/Submission/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/SRUJANX1326/Submission/tree/master/1833-maximum-ice-cream-bars) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SRUJANX1326/Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/SRUJANX1326/Submission/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SRUJANX1326/Submission/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SRUJANX1326/Submission/tree/master/0455-assign-cookies) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
