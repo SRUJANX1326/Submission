@@ -5,7 +5,6 @@ class Solution {
         int index=0;
         int prev=0;
         for(int i=0;i<prices.length;i++){
-            System.out.println(Arrays.toString(ans));
             if(prev<=prices[i]) discount=-1;
             if(discount==prices[i] && i==index) discount=-1;
             if(discount==-1){
