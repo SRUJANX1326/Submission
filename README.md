@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SRUJANX1326/Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/SRUJANX1326/Submission/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SRUJANX1326/Submission/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRUJANX1326/Submission/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/SRUJANX1326/Submission/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/SRUJANX1326/Submission/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/SRUJANX1326/Submission/tree/master/1550-three-consecutive-odds) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/SRUJANX1326/Submission/tree/master/0678-valid-parenthesis-string) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRUJANX1326/Submission/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SRUJANX1326/Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRUJANX1326/Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/SRUJANX1326/Submission/tree/master/2390-removing-stars-from-a-string) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRUJANX1326/Submission/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Cartesian Tree
 |  |
 | ------- |
