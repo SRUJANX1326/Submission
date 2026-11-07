@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/SRUJANX1326/Submission/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/SRUJANX1326/Submission/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/SRUJANX1326/Submission/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SRUJANX1326/Submission/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/SRUJANX1326/Submission/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/SRUJANX1326/Submission/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SRUJANX1326/Submission/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
