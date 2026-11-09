@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SRUJANX1326/Submission/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1496-path-crossing](https://github.com/SRUJANX1326/Submission/tree/master/1496-path-crossing) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SRUJANX1326/Submission/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1544-make-the-string-great](https://github.com/SRUJANX1326/Submission/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SRUJANX1326/Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/SRUJANX1326/Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/SRUJANX1326/Submission/tree/master/1678-goal-parser-interpretation) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SRUJANX1326/Submission/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SRUJANX1326/Submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRUJANX1326/Submission/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/SRUJANX1326/Submission/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SRUJANX1326/Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRUJANX1326/Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2390-removing-stars-from-a-string](https://github.com/SRUJANX1326/Submission/tree/master/2390-removing-stars-from-a-string) |
