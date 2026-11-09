@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/SRUJANX1326/Submission/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/SRUJANX1326/Submission/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/SRUJANX1326/Submission/tree/master/0791-custom-sort-string) |
+| [0844-backspace-string-compare](https://github.com/SRUJANX1326/Submission/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/SRUJANX1326/Submission/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SRUJANX1326/Submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/SRUJANX1326/Submission/tree/master/1108-defanging-an-ip-address) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/SRUJANX1326/Submission/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/SRUJANX1326/Submission/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/SRUJANX1326/Submission/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/SRUJANX1326/Submission/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/SRUJANX1326/Submission/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/SRUJANX1326/Submission/tree/master/1688-count-of-matches-in-tournament) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRUJANX1326/Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/SRUJANX1326/Submission/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/SRUJANX1326/Submission/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SRUJANX1326/Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/SRUJANX1326/Submission/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/SRUJANX1326/Submission/tree/master/0917-reverse-only-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/SRUJANX1326/Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/SRUJANX1326/Submission/tree/master/1768-merge-strings-alternately) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/SRUJANX1326/Submission/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/SRUJANX1326/Submission/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SRUJANX1326/Submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRUJANX1326/Submission/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SRUJANX1326/Submission/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
