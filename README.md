@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/SRUJANX1326/Submission/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/SRUJANX1326/Submission/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/SRUJANX1326/Submission/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/0993-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/SRUJANX1326/Submission/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/SRUJANX1326/Submission/tree/master/2236-root-equals-sum-of-children) |
 ## Math
 |  |
 | ------- |
