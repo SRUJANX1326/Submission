@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/SRUJANX1326/Submission/tree/master/2678-number-of-senior-citizens) |
 | [2716-minimize-string-length](https://github.com/SRUJANX1326/Submission/tree/master/2716-minimize-string-length) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SRUJANX1326/Submission/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2833-furthest-point-from-origin](https://github.com/SRUJANX1326/Submission/tree/master/2833-furthest-point-from-origin) |
 | [2864-maximum-odd-binary-number](https://github.com/SRUJANX1326/Submission/tree/master/2864-maximum-odd-binary-number) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SRUJANX1326/Submission/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/SRUJANX1326/Submission/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SRUJANX1326/Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SRUJANX1326/Submission/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+| [2833-furthest-point-from-origin](https://github.com/SRUJANX1326/Submission/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
