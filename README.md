@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SRUJANX1326/Submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/SRUJANX1326/Submission/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SRUJANX1326/Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2951-find-the-peaks](https://github.com/SRUJANX1326/Submission/tree/master/2951-find-the-peaks) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SRUJANX1326/Submission/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SRUJANX1326/Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/SRUJANX1326/Submission/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/SRUJANX1326/Submission/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SRUJANX1326/Submission/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/SRUJANX1326/Submission/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SRUJANX1326/Submission/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRUJANX1326/Submission/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Euclidean Algorithm
