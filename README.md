@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2806-account-balance-after-rounded-purchase](https://github.com/SRUJANX1326/Submission/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2864-maximum-odd-binary-number](https://github.com/SRUJANX1326/Submission/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SRUJANX1326/Submission/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/SRUJANX1326/Submission/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRUJANX1326/Submission/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SRUJANX1326/Submission/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SRUJANX1326/Submission/tree/master/3536-maximum-product-of-two-digits) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/SRUJANX1326/Submission/tree/master/2951-find-the-peaks) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SRUJANX1326/Submission/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SRUJANX1326/Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/SRUJANX1326/Submission/tree/master/3024-type-of-triangle) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/SRUJANX1326/Submission/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/SRUJANX1326/Submission/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SRUJANX1326/Submission/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SRUJANX1326/Submission/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/SRUJANX1326/Submission/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SRUJANX1326/Submission/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3024-type-of-triangle](https://github.com/SRUJANX1326/Submission/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/SRUJANX1326/Submission/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/SRUJANX1326/Submission/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search Tree
@@ -667,4 +670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SRUJANX1326/Submission/tree/master/0292-nim-game) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/SRUJANX1326/Submission/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
