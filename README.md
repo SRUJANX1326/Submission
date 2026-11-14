@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/SRUJANX1326/Submission/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SRUJANX1326/Submission/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SRUJANX1326/Submission/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1446-consecutive-characters](https://github.com/SRUJANX1326/Submission/tree/master/1446-consecutive-characters) |
 | [1496-path-crossing](https://github.com/SRUJANX1326/Submission/tree/master/1496-path-crossing) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/SRUJANX1326/Submission/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1544-make-the-string-great](https://github.com/SRUJANX1326/Submission/tree/master/1544-make-the-string-great) |
