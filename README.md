@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/SRUJANX1326/Submission/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/SRUJANX1326/Submission/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/SRUJANX1326/Submission/tree/master/2544-alternating-digit-sum) |
+| [2549-count-distinct-numbers-on-board](https://github.com/SRUJANX1326/Submission/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/SRUJANX1326/Submission/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SRUJANX1326/Submission/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/SRUJANX1326/Submission/tree/master/2806-account-balance-after-rounded-purchase) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SRUJANX1326/Submission/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/SRUJANX1326/Submission/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/SRUJANX1326/Submission/tree/master/2390-removing-stars-from-a-string) |
+| [2549-count-distinct-numbers-on-board](https://github.com/SRUJANX1326/Submission/tree/master/2549-count-distinct-numbers-on-board) |
 | [3174-clear-digits](https://github.com/SRUJANX1326/Submission/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/SRUJANX1326/Submission/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/SRUJANX1326/Submission/tree/master/3894-traffic-signal-color) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/SRUJANX1326/Submission/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SRUJANX1326/Submission/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/SRUJANX1326/Submission/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/SRUJANX1326/Submission/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/SRUJANX1326/Submission/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SRUJANX1326/Submission/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SRUJANX1326/Submission/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/SRUJANX1326/Submission/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/SRUJANX1326/Submission/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/SRUJANX1326/Submission/tree/master/2549-count-distinct-numbers-on-board) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SRUJANX1326/Submission/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/SRUJANX1326/Submission/tree/master/2716-minimize-string-length) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/SRUJANX1326/Submission/tree/master/2729-check-if-the-number-is-fascinating) |
