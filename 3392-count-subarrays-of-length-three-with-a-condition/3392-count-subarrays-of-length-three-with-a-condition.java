@@ -6,9 +6,8 @@ class Solution {
             AL=new ArrayList();
             if((double)nums[i]+nums[i+2]==(double)nums[i+1]/2){
                 count++; 
-                System.out.println(nums[i]+nums[i+2]);
-                System.out.println(nums[i+1]/2);}
             }
+        }
         return count;
     }
 }
