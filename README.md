@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/SRUJANX1326/Submission/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/SRUJANX1326/Submission/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/SRUJANX1326/Submission/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SRUJANX1326/Submission/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SRUJANX1326/Submission/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/SRUJANX1326/Submission/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1446-consecutive-characters](https://github.com/SRUJANX1326/Submission/tree/master/1446-consecutive-characters) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/SRUJANX1326/Submission/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/SRUJANX1326/Submission/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1143-longest-common-subsequence](https://github.com/SRUJANX1326/Submission/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/SRUJANX1326/Submission/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRUJANX1326/Submission/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
