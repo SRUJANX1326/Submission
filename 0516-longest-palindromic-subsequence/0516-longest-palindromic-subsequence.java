@@ -16,7 +16,7 @@ class Solution {
             }
         }
     }
-    public void LCS_String(int i,int j,String ans){
+    /*public void LCS_String(int i,int j,String ans){
         if(i==0 || j==0){
             AL.add(new StringBuilder(ans).reverse().toString());
             return;
@@ -27,12 +27,11 @@ class Solution {
             if(dp[i-1][j]==dp[i][j]) LCS_String(i-1,j,ans);
             else if(dp[i][j-1]==dp[i][j]) LCS_String(i,j-1,ans);
         }
-    }
+    }*/
     public int longestPalindromeSubseq(String s) {
         one=s;
         two=new StringBuilder(s).reverse().toString();
         dp_table();
-        LCS_String(m,n,"");
-        return AL.get(0).length();
+        return dp[m][n];
     }
 }
